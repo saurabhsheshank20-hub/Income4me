@@ -1,0 +1,10 @@
+{
+  "_comment": "Rename this file to universes.json (next to app.py) to activate it. Any universe key you include here overrides both the hardcoded Nifty 50 list and the live NSE fetch for that universe -- e.g. define 'Nifty 200' here and the app will use exactly this list instead of fetching it, useful if NSE's endpoints are unreachable from your network or you want a custom watchlist.",
+  "Nifty 200": [
+    "RELIANCE",
+    "TCS",
+    "HDFCBANK",
+    "INFY",
+    "ICICIBANK"
+  ]
+}
